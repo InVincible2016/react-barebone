@@ -5,7 +5,7 @@ module.exports = {
   entry: {
     app: "./src/index.js",
   },
-  plugins: [new HtmlWebpackPlugin()],
+  plugins: [new HtmlWebpackPlugin({ template: "public/index.html" })],
   module: {
     rules: [
       {

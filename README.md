@@ -4,6 +4,6 @@ This is a minimal setup to build a React project based on the [Creating a Toolch
 
 Q: Why not just use CRA?
 
-A: It integrates too many packages and functionalities.
+A: CRA integrates too many packages and functionalities.
 
 I hope you find it usefull
